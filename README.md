@@ -1,4 +1,4 @@
-# Fofa_v
+# Fofa_v（Fofa 白嫖）
 
 fofa白嫖（只需要有一个普通账号就可以爬取全部URL）
 
