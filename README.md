@@ -32,4 +32,11 @@ fofa白嫖（只需要有一个普通账号就可以爬取全部URL）
 
 
 就是像这样，会一直爬到结束为止。保存在url.txt文件中
+
+
+
+
+
+
+
 ![image](https://github.com/iascn/Fofa_v/blob/main/Capture.png)
